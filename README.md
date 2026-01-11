@@ -21,3 +21,5 @@ SpendingsTracker is a Spring Boot application designed to turn raw transaction d
 ### How to run:
 1.  Compile and run the Spring Boot application.
 2.  Open your browser and navigate to `http://localhost:8080`.
+
+<img width="1719" height="922" alt="image" src="https://github.com/user-attachments/assets/6e7fb7f5-34f1-4ea9-a0ed-935952477885" />
